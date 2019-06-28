@@ -8,13 +8,17 @@ The folder structure was:
 
 data1
 
-/train
-   /dogs
-   /cats
+      /train
          
- /validation
- /dogs
- /cats
+         /dogs
+         
+         /cats
+         
+       /validation
+ 
+         /dogs
+         
+         /cats
             
  Result:
      We obtained an alidation accuracy of 73.51% for 10 epoch
