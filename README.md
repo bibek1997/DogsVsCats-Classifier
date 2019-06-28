@@ -21,4 +21,4 @@ data1
          /cats
             
  Result:
-     We obtained an alidation accuracy of 73.51% for 10 epoch
+     We obtained a validation accuracy of 73.51% for 10 epoch
