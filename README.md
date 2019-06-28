@@ -14,4 +14,4 @@ The folder structure was:
             /cats
             
  Result:
-     We obtained an alidation accuracy of 73.51% for 10 epochs
+     We obtained an alidation accuracy of 73.51% for 10 epoch
